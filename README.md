@@ -23,3 +23,5 @@ This is a repository for using visual studio
 
 ![image](https://user-images.githubusercontent.com/27468577/44633812-f0b13c80-a95d-11e8-85db-e46989ed1843.png)
 
+## Add Changes , commit and push to git hub 
+
