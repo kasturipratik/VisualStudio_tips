@@ -19,7 +19,7 @@ This is a repository for using visual studio
 
 ![image](https://user-images.githubusercontent.com/27468577/44633808-ceb7ba00-a95d-11e8-8ad7-2fe7d86686ce.png)
 
-* Click publish to git button on the IDE and paste the copied url from the github
+* Click ``` Publish Git Repo ``` button on the IDE and paste the copied url from the github
 
 ![image](https://user-images.githubusercontent.com/27468577/44633812-f0b13c80-a95d-11e8-85db-e46989ed1843.png)
 
